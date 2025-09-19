@@ -1,0 +1,238 @@
+ <h2 class="section-title">Produk Terbaru</h2>
+        <div class="products">
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0026.jpg"
+                        alt="Jam tangan mewah Rolex dengan tali kulit hitam dan wajah emas" />
+                    <span class="product-badge">NEW</span>
+                </div>
+                <div class="product-info">
+                    <h3>Bonia BNB10319 Slim Ceramic - stainless elegan</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">
+                        <span class="old-price">Rp 4.800.000</span>
+                        Rp 4.100.000
+                    </div>
+                    <button type="submit" name="add_to_cart" class="btn">Tambah Ke Keranjang</button>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0027.jpg"
+                        alt="Jam tangan Omega Speedmaster dengan dial hitam dan tali stainless steel" />
+                    <span class="product-badge">NEW</span>
+                </div>
+                <div class="product-info">
+                    <h3>Skmi 9180 Women Elegan Black Strap - casual elegan</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <div class="price">
+                        Rp 480.000
+                    </div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0028.jpg"
+                        alt="Jam tangan Apple Watch Series 8 dengan strap olahraga warna abu-abu" />
+                    <span class="product-badge">NEW</span>
+                </div>
+                <div class="product-info">
+                    <h3>Dior La D de Dior Black Dial - mewah high and fashion</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <div class="price">
+                        <span class="old-price">Rp 69.500.000</span>
+                        Rp 67.200.000
+                    </div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0029.jpg"
+                        alt="Jam tangan G-Shock tahan air dengan warna hitam dan merah" />
+                    <span class="product-badge">NEW</span>
+                </div>
+                <div class="product-info">
+                    <h3>Q&Q Ladies Quartz Gold Bracelet - simpel rantai emas</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">Rp 800.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0037.jpg"
+                        alt="Jam tangan Seiko 5 dengan desain klasik dan tali kulit coklat" />
+                    <span class="product-badge">NEW</span>
+                </div>
+                <div class="product-info">
+                    <h3>Sinobi Stainless Stell Day-Date - Formal</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <div class="price">Rp 1.600.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0023.jpg"
+                        alt="Jam tangan Tissot dengan desain sporty dan tali karet hitam" />
+                    <span class="product-badge">NEW</span>
+                </div>
+                <div class="product-info">
+                    <h3>Eiger Chronograph Leather Strap - sporty</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <div class="price">Rp 230.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<div class="products">
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0032.jpg"
+                        alt="Jam tangan Tag Heuer Carrera dengan dial biru dan tali kulit coklat" />
+                    <span class="product-badge">HOT</span>
+                </div>
+                <div class="product-info">
+                    <h3>Alba Prestige White Ceramic - putih elegan anti gores</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">Rp 4.800.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0033.jpg"
+                        alt="Jam tangan Fossil dengan desain vintage dan tali kulit coklat" />
+                </div>
+                <div class="product-info">
+                    <h3>Pablo Raez Stainless Stell - minimalis elegan</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <div class="price">Rp 2.000.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0034.jpg"
+                        alt="Jam tangan Citizen Eco-Drive dengan desain modern dan tali stainless steel" />
+                </div>
+                <div class="product-info">
+                    <h3>Alexandre Christie Classic Stell Silver - stainless stell berkualitas</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <div class="price">Rp 2.400.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0035.jpg"
+                        alt="Jam tangan Casio Edifice dengan desain sporty dan tali stainless steel" />
+                </div>
+                <div class="product-info">
+                    <h3>Naviforce NF9182 Chronograph - militer/sport</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <div class="price">Rp 1.100.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0036.jpg"
+                        alt="Jam tangan Longines Master Collection dengan dial putih dan tali kulit coklat" />
+                </div>
+                <div class="product-info">
+                    <h3>Emporio Armani AR1452 - chronograph elegan</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <div class="price">Rp 3.200.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="Saved Pictures/IMG-20250811-WA0030.jpg"
+                        alt="Jam tangan Michael Kors dengan desain glamor dan tali stainless steel" />
+                </div>
+                <div class="product-info">
+                    <h3>Rolex Daytona - jam tangan mewah Chronograph Classic</h3>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i>
+                    </div>
+                    <div class="price">Rp 624.000.000</div>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+            </div>
+        </div>
